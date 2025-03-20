@@ -1,2 +1,3 @@
 # CompChem25
-This repository contains the necessary info for a Getting Started practical lecture
+This repository contains the necessary info for Handson lecture of the 
+Computational Chemistry course 2025
